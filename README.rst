@@ -1,3 +1,5 @@
+> Forked to check wether custom add ons can be added to this tool
+
 |PyPI| |Test| |Gitter| |DOI| |binder|
 
 .. |PyPI| image:: https://img.shields.io/pypi/v/folium.svg
